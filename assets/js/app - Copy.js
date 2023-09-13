@@ -238,14 +238,14 @@ document.addEventListener("DOMContentLoaded", function () {
         prevEl: '.auth-slider__prev',
       },
       breakpoints: {
-        0: {
+        576: {
           slidesPerView: 2
         },
         768: {
           slidesPerView: 3
         },
         1200: {
-          slidesPerView: 5
+          slidesPerView: 4
         }
       }
     })
@@ -297,38 +297,6 @@ document.addEventListener("DOMContentLoaded", function () {
       }
     })
   }
-
-
-  const projectSlider = document.querySelector('.project-Slider');
-  if (projectSlider) {
-    const locationSliderInit = new Swiper(projectSlider, {
-      loop: true,
-      slidesPerView: 1,
-      spaceBetween: 16,
-      centeredSlides: true,
-      centeredSlidesBounds: true,
-      pagination: {
-        el: '.project-Slider__pagination',
-        type: 'bullets',
-        clickable: true
-      },
-      breakpoints: {
-        768: {
-          slidesPerView: 2.5
-        },
-        992: {
-          slidesPerView: 3
-        },
-        1200: {
-          slidesPerView: 3
-        },
-        1400: {
-          slidesPerView: 3
-        }
-      }
-    })
-  }
-
   /**
   * Location Video
   */

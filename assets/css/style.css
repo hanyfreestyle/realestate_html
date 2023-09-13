@@ -3037,7 +3037,6 @@ small,
 }
 @media (min-width: 1920px) {
   .discover-location-section::before {
-    content: url(../img/location-el.png);
     position: absolute;
     inset-block-start: 4.0625rem;
     inset-inline-end: 7.5rem;
@@ -3049,7 +3048,7 @@ small,
   inset-block-start: 0;
   inset-block-end: 50%;
   inset-inline: 0;
-  background-color: hsl(var(--primary-300)/0.05);
+
   z-index: -1;
 }
 .app-section {
