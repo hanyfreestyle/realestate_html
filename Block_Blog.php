@@ -2,8 +2,13 @@
     <div class="container">
         <div class="row">
             <div class="col-12">
+                <h2 class="text-center pb-3"> Latest Real Estate Updates </h2>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
                 <div class="position-relative">
-                    <div class="swiper team-slider">
+                    <div class="swiper blogh-slider">
                         <div class="swiper-wrapper">
                             <?php
                             for ($i = 0; $i <= 8; $i++) {
@@ -73,7 +78,7 @@
 
                         </div>
                     </div>
-                    <div class="swiper-pagination team-slider__pagination mt-5"></div>
+                    <div class="swiper-pagination blogh-slider__pagination mt-5"></div>
                 </div>
             </div>
         </div>

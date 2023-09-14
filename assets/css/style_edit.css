@@ -108,7 +108,7 @@
     width: 100%;
     /*border: 1px solid #2c0b0e;*/
     min-height: 50px;
-    background: #ffffff;
+    background: #f3f3f3;
     margin-bottom: 5px;
 
 
@@ -132,3 +132,23 @@
 }
 
 
+
+
+.blogh-slider-container {
+    position: relative;
+}
+.blogh-slider__pagination {
+    bottom: -40px !important;
+}
+.blogh-slider__pagination .swiper-pagination-bullet {
+    width: 0.75rem;
+    height: 0.75rem;
+    opacity: 1;
+    background-color: hsl(var(--neutral-40));
+}
+.blogh-slider__pagination .swiper-pagination-bullet-active {
+    width: 1.75rem;
+    height: 0.75rem;
+    border-radius: 1rem;
+    background-color: hsl(var(--primary-300));
+}

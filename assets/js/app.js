@@ -398,10 +398,40 @@ document.addEventListener("DOMContentLoaded", function () {
   if (teamSlider) {
     const teamSliderInit = new Swiper(teamSlider, {
       loop: true,
-      slidesPerView: 1,
+      slidesPerView: 2,
       spaceBetween: 16,
       pagination: {
         el: '.team-slider__pagination',
+        clickable: true
+      },
+      breakpoints: {
+        768: {
+          slidesPerView: 2,
+          spaceBetween: 24
+        },
+        992: {
+          slidesPerView: 4
+        },
+        1200: {
+          slidesPerView: 5
+        },
+        1400: {
+          slidesPerView: 5,
+          spaceBetween: 24
+        }
+      }
+    })
+  }
+
+  const bloghSlider = document.querySelector('.blogh-slider')
+  if (bloghSlider) {
+    const teamSliderInit = new Swiper(bloghSlider, {
+      loop: true,
+      slidesPerView: 1,
+      spaceBetween: 16,
+      pagination: {
+
+        el: '.blogh-slider__pagination',
         clickable: true
       },
       breakpoints: {
