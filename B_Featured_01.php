@@ -17,20 +17,19 @@
                         <span class="d-inline-block fs-20 fw-medium clr-tertiary-300"> <span class="fs-16 fw-normal clr-neutral-0"> Start from</span> 5,256,000
                               </span>
                     </div>
-                    <div class="d-flex flex-wrap gap-4 align-items-center justify-content-between">
-                        <div class="flex-grow-1">
+                    <div class="d-flex flex-wrap  gap-4X align-items-centerX justify-content-betweenX">
                             <h4>
-                                <a href="#" class="link clr-neutral-0 :clr-neutral-0"> Project Name </a>
+                                <a href="#" class="link clr-neutral-0 :clr-neutral-0 project_card_name"> Sarai Compound
+                                    New Cairo </a>
                             </h4>
-                            <div class="d-flex align-items-center gap-2">
+                            <div class="d-flex align-items-centerX gap-2X">
                                 <span class="material-symbols-outlined mat-icon clr-tertiary-300"> distance </span>
                                 <span class="clr-neutral-0"> New Cairo </span>
                             </div>
-                        </div>
-                        <div class="flex-shrink-0">
-                            <a href="#" class="btn btn-outline-secondary rounded-pill py-3 px-6 fw-semibold"> Read
-                                More </a>
-                        </div>
+                            <div class="project_card_readmore ">
+                                <a href="#" class="btn btn-outline-secondary rounded-pill py-3 px-6 fw-semibold"> Read
+                                    More </a>
+                            </div>
                     </div>
                 </div>
             </div>
@@ -54,21 +53,21 @@
                                 <span class="d-inline-block fs-20 fw-medium clr-tertiary-300"> <span class="fs-16 fw-normal clr-neutral-0"> Start from</span> 5,256,000
                               </span>
                             </div>
-                            <div class="d-flex flex-wrap gap-4 gap-xl-0 align-items-center justify-content-between">
-                                <div class="flex-grow-1">
-                                    <h4>
-                                        <a href="#" class="link clr-neutral-0 :clr-neutral-0">Project Name </a>
-                                    </h4>
-                                    <div class="d-flex align-items-center gap-2">
-                                        <span class="material-symbols-outlined mat-icon clr-tertiary-300"> distance </span>
-                                        <span class="clr-neutral-0"> New Cairo </span>
-                                    </div>
+                            <div class="d-flex flex-wrap  gap-4X align-items-center justify-content-between">
+                                <h4>
+                                    <a href="#" class="link clr-neutral-0 :clr-neutral-0 project_card_name"> Sarai Compound
+                                        New Cairo </a>
+                                </h4>
+                                <div class="d-flex align-items-centerX gap-2X">
+                                    <span class="material-symbols-outlined mat-icon clr-tertiary-300"> distance </span>
+                                    <span class="clr-neutral-0"> New Cairo </span>
                                 </div>
-                                <div class="flex-shrink-0">
-                                    <a href="#" class="btn btn-outline-secondary rounded-pill py-3 px-6 fw-semibold">
-                                        Read More </a>
+                                <div class="project_card_readmore ">
+                                    <a href="#" class="btn btn-outline-secondary rounded-pill py-3 px-6 fw-semibold"> Read
+                                        More </a>
                                 </div>
                             </div>
+
                         </div>
                     </div>
                 </div>
@@ -89,19 +88,18 @@
                                 <span class="d-inline-block fs-20 fw-medium clr-tertiary-300"> <span class="fs-16 fw-normal clr-neutral-0"> Start from</span> 5,256,000
                               </span>
                             </div>
-                            <div class="d-flex flex-wrap gap-4 gap-xl-0 align-items-center justify-content-between">
-                                <div class="flex-grow-1">
-                                    <h4>
-                                        <a href="#" class="link clr-neutral-0 :clr-neutral-0"> Project Name </a>
-                                    </h4>
-                                    <div class="d-flex align-items-center gap-2">
-                                        <span class="material-symbols-outlined mat-icon clr-tertiary-300"> distance </span>
-                                        <span class="clr-neutral-0"> New Cairo </span>
-                                    </div>
+                            <div class="d-flex flex-wrap  gap-4X align-items-center justify-content-between">
+                                <h4>
+                                    <a href="#" class="link clr-neutral-0 :clr-neutral-0 project_card_name"> Sarai Compound
+                                        New Cairo </a>
+                                </h4>
+                                <div class="d-flex align-items-centerX gap-2X">
+                                    <span class="material-symbols-outlined mat-icon clr-tertiary-300"> distance </span>
+                                    <span class="clr-neutral-0"> New Cairo </span>
                                 </div>
-                                <div class="flex-shrink-0">
-                                    <a href="#" class="btn btn-outline-secondary rounded-pill py-3 px-6 fw-semibold">
-                                        Read More </a>
+                                <div class="project_card_readmore ">
+                                    <a href="#" class="btn btn-outline-secondary rounded-pill py-3 px-6 fw-semibold"> Read
+                                        More </a>
                                 </div>
                             </div>
                         </div>
@@ -128,17 +126,16 @@
                         <span class="d-inline-block fs-20 fw-medium clr-tertiary-300"> <span class="fs-16 fw-normal clr-neutral-0"> Start from</span> 5,256,000
                               </span>
                     </div>
-                    <div class="d-flex flex-wrap gap-4 align-items-center justify-content-between">
-                        <div class="flex-grow-1">
-                            <h4>
-                                <a href="#" class="link clr-neutral-0 :clr-neutral-0"> Project Name </a>
-                            </h4>
-                            <div class="d-flex align-items-center gap-2">
-                                <span class="material-symbols-outlined mat-icon clr-tertiary-300"> distance </span>
-                                <span class="clr-neutral-0"> New Cairo </span>
-                            </div>
+                    <div class="d-flex flex-wrap  gap-4X align-items-center justify-content-between">
+                        <h4>
+                            <a href="#" class="link clr-neutral-0 :clr-neutral-0 project_card_name"> Sarai Compound
+                                New Cairo </a>
+                        </h4>
+                        <div class="d-flex align-items-centerX gap-2X">
+                            <span class="material-symbols-outlined mat-icon clr-tertiary-300"> distance </span>
+                            <span class="clr-neutral-0"> New Cairo </span>
                         </div>
-                        <div class="flex-shrink-0">
+                        <div class="project_card_readmore ">
                             <a href="#" class="btn btn-outline-secondary rounded-pill py-3 px-6 fw-semibold"> Read
                                 More </a>
                         </div>

@@ -2652,12 +2652,15 @@ small,
     inset-inline-start: 11.875rem;
   }
 }
+
+
 @media (min-width: 1200px) and (min-width: 1920px) {
   .primary-hero__el-3 {
     inset-block-start: 6.25rem;
     inset-inline-start: 21.25rem;
   }
 }
+
 @media (min-width: 1200px) {
   .primary-hero__el-4 {
     inset-block-start: 2.5rem;

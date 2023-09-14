@@ -1,7 +1,21 @@
 .stop_view{
     display: none;
 }
+.logo {
 
+    max-width:  230px
+}
+
+.lang_icon{
+    width: 28px;
+    height: 28px;
+}
+
+.cell_phone{
+    font-size:22px;
+    line-height: 55px;
+    color: #343a40!important;
+}
 .promax_h{
     max-height: 235px!important;
     overflow: hidden;
@@ -48,5 +62,73 @@
     background-color: hsl(var(--primary-300));
 }
 
+
+
+.menulogo{
+}
+
+.lang_menu{
+
+    position: absolute;
+
+    right:15px!important;
+}
+
+.header-top{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+@media (max-width: 700px) {
+    .header-top{
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+}
+
+
+.project_card_name{
+    display: inline-block;
+    max-width: 50%!important;
+    text-overflow: ellipsis;
+    white-space: nowrap!important;
+    overflow: hidden!important;
+}
+
+.project_card_readmore{
+    position: absolute;
+    bottom: 28px;
+    right: 20px;
+}
+
+.dev_slider_card{
+    background: #2c0b0e;
+}
+.dev_slider_card .Img_div{
+    width: 100%;
+    /*border: 1px solid #2c0b0e;*/
+    min-height: 50px;
+    background: #ffffff;
+    margin-bottom: 5px;
+
+
+}
+.dev_slider_card .Img_div img{
+    max-width: 60%;
+
+}
+
+.blog_date_icon{
+    font-size: 18px;
+
+}
+
+.blog_date_text{
+    font-size: 13px;
+
+
+
+
+}
 
 

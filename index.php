@@ -1,10 +1,11 @@
 <?php
+require_once '_var.php';
 require_once 'inc_meta.php';
 ?>
 
 <body>
 <?php
-#require_once 'inc_preloader.php'
+#require_once 'inc_preloader.php';
 
 require_once 'inc_header_top.php';
 require_once 'inc_header_menu.php';
