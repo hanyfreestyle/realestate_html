@@ -27,7 +27,9 @@ require_once 'Project_Slider.php';
                     require_once 'Project_Amenities.php';
                     require_once 'Project_Video.php';
                     require_once 'Project_Map.php';
+                    require_once 'Project_Units.php';
                     require_once 'Project_FAQ.php';
+
                     ?>
 
 
@@ -36,7 +38,7 @@ require_once 'Project_Slider.php';
             <div class="col-xl-4 mobile_stop">
                 <div class="section-space--sm">
                     <?php
-                     require_once 'Project_Right.php';
+                    require_once 'Project_Right.php';
                     ?>
                 </div>
             </div>
