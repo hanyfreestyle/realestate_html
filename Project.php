@@ -33,7 +33,7 @@ require_once 'Project_Slider.php';
 
                 </div>
             </div>
-            <div class="col-xl-4">
+            <div class="col-xl-4 mobile_stop">
                 <div class="section-space--sm">
                     <?php
                      require_once 'Project_Right.php';

@@ -19,4 +19,11 @@
     <link rel="stylesheet" href="./assets/css/plugins.css">
     <link rel="stylesheet" href="./assets/css/style.css">
     <link rel="stylesheet" href="./assets/css/style_edit.css">
+    <style>
+        @media (max-width: 600px) {
+            .mobile_stop{
+                display: none!important;
+            }
+        }
+    </style>
 </head>
