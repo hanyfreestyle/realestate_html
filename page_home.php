@@ -14,16 +14,6 @@ require_once 'Block_Blog.php';
 
 ?>
 
-<div class="section-space--sm">
-    <div class="container">
-        <div class="row">
-            <div class="col-12">
-
-            </div>
-        </div>
-    </div>
-</div>
-
 
 
 

@@ -152,3 +152,130 @@
     border-radius: 1rem;
     background-color: hsl(var(--primary-300));
 }
+
+
+
+
+.project-other-project__btn {
+    --swiper-navigation-size: 40px;
+    margin: 0;
+    position: static;
+    width: var(--swiper-navigation-size);
+    height: var(--swiper-navigation-size);
+    border: 1px solid hsl(var(--primary-300)/0.5);
+    border-radius: 50%;
+    transition: all 0.3s ease;
+}
+.project-other-project__btn:hover {
+    background: hsl(var(--primary-300));
+}
+.project-other-project__btn:hover::after {
+    color: hsl(var(--neutral-0));
+}
+.project-other-project__btn::after {
+    font-size: 1.25rem;
+    color: hsl(var(--primary-300)/0.5);
+}
+
+
+
+
+.project-other-project-container {
+    position: relative;
+}
+.project-other-project__pagination {
+    bottom: -40px !important;
+}
+.project-other-project__pagination .swiper-pagination-bullet {
+    width: 0.75rem;
+    height: 0.75rem;
+    opacity: 1;
+    background-color: hsl(var(--neutral-40));
+}
+.project-other-project__pagination .swiper-pagination-bullet-active {
+    width: 1.75rem;
+    height: 0.75rem;
+    border-radius: 1rem;
+    background-color: hsl(var(--primary-300));
+}
+
+
+.Pro_Slider_Imag{
+    text-align: center;
+    height: 350px;
+    overflow: hidden;
+
+}
+
+.Pro_Slider_Imag img{
+width: 100%;
+    height: auto;
+    min-height: 100%;
+
+}
+
+@media (max-width: 700px) {
+
+    .Pro_Slider_Imag{
+        text-align: center;
+        height: 350px;
+        overflow: hidden;
+
+    }
+
+    .Pro_Slider_Imag img{
+        width: 100%;
+        height: auto;
+        min-height: 100%;
+
+    }
+}
+
+
+.Pro_Slider_Imag_3{
+    text-align: center;
+    height: 350px;
+    overflow: hidden;
+    background: #2c3034;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.Pro_Slider_Imag_3 img{
+    margin: auto;
+    vertical-align: center;
+    max-height: 350px;
+    height: auto;
+}
+
+@media (max-width: 700px) {
+
+
+    .Pro_Slider_Imag_3{
+        text-align: center;
+        height: 300px;
+        overflow: hidden;
+        background: #2c3034;
+
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+
+    }
+
+    .Pro_Slider_Imag_3 img{
+        margin: auto;
+        vertical-align: center;
+        max-height: 300px;
+        height: auto;
+    }
+}
+
+
+
+

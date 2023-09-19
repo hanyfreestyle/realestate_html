@@ -2220,8 +2220,8 @@ small,
   }
 }
 .property-gallery-slider:hover .property-gallery-slider__btn {
-  opacity: 1;
-  pointer-events: unset;
+  /*opacity: 1;*/
+  /*pointer-events: unset;*/
 }
 .property-gallery-slider__btn {
   --swiper-navigation-size: 40px;
@@ -2233,9 +2233,9 @@ small,
   opacity: 1;
   background-color: hsl(var(--neutral-0));
   color: hsl(var(--primary-300));
-  transition: all 0.3s ease;
-  opacity: 0;
-  pointer-events: none;
+  /*transition: all 0.3s ease;*/
+  /*opacity: 0;*/
+  /*pointer-events: none;*/
 }
 .property-gallery-slider__btn:hover {
   background: hsl(var(--primary-300));

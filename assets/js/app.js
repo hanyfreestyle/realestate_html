@@ -579,6 +579,41 @@ document.addEventListener("DOMContentLoaded", function () {
       }
     })
   }
+
+  /**
+   * Recent View Slider
+   */
+  const projectOtherPro = document.querySelector('.project-other-project')
+  if (projectOtherPro) {
+    new Swiper(projectOtherPro, {
+      loop: true,
+      slidesPerView: 1,
+      spaceBetween: 16,
+      centeredSlides: true,
+      centeredSlidesBounds: true,
+
+      pagination: {
+        el: '.project-other-project__pagination',
+        type: 'bullets',
+        clickable: true
+      },
+      breakpoints: {
+        768: {
+          slidesPerView: 2,
+          spaceBetween: 16,
+        },
+        1200: {
+          slidesPerView: 3
+        },
+        1400: {
+          slidesPerView: 3,
+          spaceBetween: 24
+        }
+      }
+    })
+  }
+
+
   /**
   * Brand Slider
   */
