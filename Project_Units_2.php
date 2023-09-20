@@ -1,48 +1,25 @@
-<div class="d-flex align-items-center justify-content-between flex-wrap gap-3 mb-5">
-    <h4 class="mb-0"> Properties for sale (55) </h4>
+<div class="p-6 bg-neutral-0 rounded-4 mb-10">
+    <div class="d-flex align-items-center justify-content-between flex-wrap gap-3 mb-5">
+        <h4 class="mb-0"> Properties for sale (55) </h4>
+    </div>
 
-</div>
-<!--<div class="hr-dashed my-8"></div>-->
+
 <?php
 for ($i = 0; $i <= 20 ; $i++) {
     ?>
 
-
-
     <div class="col-12 mb-5 ty-compact-list-units">
         <div class="property-card property-card--row">
-
             <div class="property-card__head">
-                <div class="swiper property-card-slider">
-                    <div class="swiper-wrapper ">
-
-                        <?php
-                        for ($x = 1; $x <= 5; $x++) {
-                        ?>
-
-                            <div class="swiper-slide ">
-                                <div class="property-card__img">
-                                    <img src="./assets/imgs/units/pro_<?=$x?>.jpg" alt="image" class="img-fluid w-100">
-                                </div>
-                            </div>
-                        <?php
-                        }
-                        ?>
-
-                    </div>
-                    <div class="swiper-pagination property-card-pagination"></div>
-                    <div class="swiper-button-prev property-card-prev"></div>
-                    <div class="swiper-button-next property-card-next"></div>
+                <div class="property-card__img">
+                    <img src="./assets/imgs/unit_photo.jpg" alt="image" class="img-fluid w-100">
                 </div>
-                <a href="#" class="link property-card__tag d-inline-block bg-neutral-0 :bg-primary-300
-                clr-primary-300 :clr-neutral-0 py-2 px-4 rounded-pill fw-medium"> Apartment </a>
-                <button class="property-card__fav w-10 h-10 rounded-circle bg-neutral-0 d-grid place-content-center border-0 clr-primary-300">
-                    <span class="material-symbols-outlined mat-icon fw-200 property-card__heart"> favorite </span>
-                </button>
+                <a href="#" class="link property-card__tag d-inline-block bg-neutral-0 :bg-primary-300 clr-primary-300
+            :clr-neutral-0 py-2 px-4 rounded-pill fw-medium"> Apartment </a>
+                <!--            <button class="property-card__fav w-10 h-10 rounded-circle bg-neutral-0 d-grid place-content-center border-0 clr-primary-300">-->
+                <!--                <span class="material-symbols-outlined mat-icon fw-200 property-card__heart"> favorite </span>-->
+                <!--            </button>-->
             </div>
-
-
-
             <div class="property-card__content">
                 <div class="property-card__body">
                     <div class="d-flex align-items-center gap-1 mb-4">
@@ -75,36 +52,26 @@ for ($i = 0; $i <= 20 ; $i++) {
 
 
                         <ul class="list list-row flex-wrap gap-3 justify-content-center">
-<!--                              flex-shrink-0 -->
-
-
                             <li>
-                                <a href="#">
-                                    <div class="w-11 h-11 rounded-circle bg-primary-300 d-grid place-content-center">
-                                        <span class="material-symbols-outlined mat-icon fs-24 clr-neutral-0 fw-300"> phone_in_talk </span>
-                                    </div>
+                                <a href="#" class="link d-grid place-content-center w-9 h-9 rounded-circle bg-primary-50 clr-primary-300 :bg-primary-300 :clr-neutral-0">
+                                    <i class="fas fa-headphones"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="#">
-                                <div class="w-11 h-11 rounded-circle bg-secondary-300 d-grid place-content-center
-                                flex-shrink-0">
-                                    <span class="material-symbols-outlined mat-icon fs-24 clr-neutral-700 fw-300">  <i class="fa-brands fa-whatsapp"></i> </span>
-                                </div>
+                                <a href="#" class="link d-grid place-content-center w-9 h-9 rounded-circle bg-primary-50 clr-primary-300 :bg-primary-300 :clr-neutral-0">
+                                    <i class="fa-solid fa-envelope-circle-check"></i>
                                 </a>
-
-
                             </li>
                             <li>
-                                <a href="#">
-                                <div class="w-11 h-11 rounded-circle bg-tertiary-300 d-grid place-content-center
-                                flex-shrink-0">
-                                    <span class="material-symbols-outlined mat-icon fs-24 clr-neutral-700 fw-300"> mark_as_unread </span>
-                                </div>
+                                <a href="#" class="link d-grid place-content-center w-9 h-9 rounded-circle bg-primary-50 clr-primary-300 :bg-primary-300 :clr-neutral-0">
+                                    <i class="fa-brands fa-whatsapp"></i>
                                 </a>
-
                             </li>
-
+                            <!--                        <li>-->
+                            <!--                            <a href="#" class="link d-grid place-content-center w-9 h-9 rounded-circle bg-primary-50 clr-primary-300 :bg-primary-300 :clr-neutral-0">-->
+                            <!--                                <i class="fab fa-dribbble"></i>-->
+                            <!--                            </a>-->
+                            <!--                        </li>-->
                         </ul>
 
                         <a href="#" class="btn btn-outline-primary py-3 px-6 rounded-pill d-inline-flex
@@ -126,3 +93,4 @@ fw-semibold">Show more</div>
     </div>
 </div>
 
+</div>

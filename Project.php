@@ -23,11 +23,11 @@ require_once 'Project_Slider.php';
                     <?php
 
                     require_once 'Project_Info.php';
+                    require_once 'Project_Units.php';
                     require_once 'Project_Des.php';
                     require_once 'Project_Amenities.php';
                     require_once 'Project_Video.php';
                     require_once 'Project_Map.php';
-                    require_once 'Project_Units.php';
                     require_once 'Project_FAQ.php';
 
                     ?>

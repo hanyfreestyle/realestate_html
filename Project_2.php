@@ -13,7 +13,7 @@ require_once 'inc_header_menu.php';
 
 
 
-require_once 'Project_Slider_2.php';
+require_once 'Project_Slider.php';
 ?>
 <div class="bg-primary-5p">
     <div class="container">
@@ -23,11 +23,13 @@ require_once 'Project_Slider_2.php';
                     <?php
 
                     require_once 'Project_Info.php';
-                    require_once 'Project_Des_2.php';
+                    require_once 'Project_Units_2.php';
+                    require_once 'Project_Des.php';
                     require_once 'Project_Amenities.php';
                     require_once 'Project_Video.php';
                     require_once 'Project_Map.php';
                     require_once 'Project_FAQ.php';
+
                     ?>
 
 
@@ -36,7 +38,7 @@ require_once 'Project_Slider_2.php';
             <div class="col-xl-4 mobile_stop">
                 <div class="section-space--sm">
                     <?php
-                     require_once 'Project_Right.php';
+                    require_once 'Project_Right.php';
                     ?>
                 </div>
             </div>
@@ -45,7 +47,7 @@ require_once 'Project_Slider_2.php';
 
     <?php
     #require_once 'Project_Recently.php';
-     require_once 'Project_Project.php';
+    require_once 'Project_Project.php';
     ?>
 
 </div>

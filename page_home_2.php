@@ -8,7 +8,7 @@ require_once 'Block_Featured_Projects.php';
 
 
 require_once 'Block_Developer.php';
-require_once 'Block_ForSale.php';
+require_once 'Block_ForSale_2.php';
 require_once 'Block_Blog.php';
 
 
