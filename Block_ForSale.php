@@ -30,7 +30,7 @@ $loc = [
 ];
 ?>
                 <div class="list-group about-tab mb-7 ">
-<div class="scrollmenu ">
+<div id="scrollmenu" class="scrollmenu ">
                     <?php
                     for ($i = 0; $i < count($type); $i++) {
                         if($i == 0){

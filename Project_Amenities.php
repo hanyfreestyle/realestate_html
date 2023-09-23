@@ -6,11 +6,10 @@
             <?php
             for ($i = 0; $i <= 19 ; $i++) {
                 ?>
-                <div class="ty-compact-list col-md-4 col-lg-3 align-items-center gap-2">
+                <div class="ty-compact-list col-6 col-lg-3 align-items-center gap-2">
                     <span class="material-symbols-outlined mat-icon"> pool </span>
                     <span class="d-inline-block"> Air Condition </span>
                 </div>
-
                 <?php
             }
             ?>

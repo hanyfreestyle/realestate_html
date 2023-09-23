@@ -7,7 +7,8 @@
                     <h2 class="mb-2">  Featured Projects  </h2>
                 </div>
                 <div class="col-xl-12 mb-5  pb-3">
-                    <div class="list-group flex-row flex-wrap justify-content-xl-start gap-5">
+                    <div class="list-group flex-row flex-wrap justify-content-xl-start gap-5  ">
+                        <div class="Featured_Projects_Scrool">
                         <a href="#list-apartments" class="featured-tab link fw-semibold clr-primary-400 d-inline-block py-3 px-6 bg-primary-50 :bg-primary-300 :clr-neutral-0 rounded-pill active" data-bs-toggle="list"> New Cairo </a>
                         <a href="#list-houses" class="featured-tab link fw-semibold clr-primary-400 d-inline-block
                         py-3 px-6 bg-primary-50 :bg-primary-300 :clr-neutral-0 rounded-pill" data-bs-toggle="list">
@@ -18,6 +19,7 @@
                         <a href="#list-studio" class="featured-tab link fw-semibold clr-primary-400 d-inline-block
                         py-3 px-6 bg-primary-50 :bg-primary-300 :clr-neutral-0 rounded-pill" data-bs-toggle="list">
                             New Cairo 4 </a>
+                        </div>
                     </div>
                 </div>
             </div>

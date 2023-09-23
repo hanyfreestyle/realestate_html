@@ -1,5 +1,5 @@
 <div class="d-flex align-items-center justify-content-between flex-wrap gap-3 mb-5">
-    <h4 class="mb-0"> Properties for sale (55) </h4>
+    <h4 class="mb-0">Other units in the same project (55) </h4>
 
 </div>
 <!--<div class="hr-dashed my-8"></div>-->

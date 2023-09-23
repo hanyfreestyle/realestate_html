@@ -1,5 +1,5 @@
 <div class="p-6 bg-neutral-0 rounded-4 mb-10">
-    <h4 class="mb-5"> Information </h4>
+    <h4 class="mb-5"> Project Description  </h4>
 
 
 
@@ -26,6 +26,14 @@
 
     </p>
 
+<span class="show_text_hany">
+    <div class="btn btn-outline-primary py-3 px-6 rounded-pill d-inline-flex align-items-center gap-1 fw-semibold">Show more</div>
+</span>
+
+<span class="hide_text_hany">
+    <div class="btn btn-outline-primary py-3 px-6 rounded-pill d-inline-flex align-items-center gap-1
+    fw-semibold">Show less</div>
+</span>
 
 <!--    <span  class="show_text_new link d-flex align-items-center gap-2 clr-primary-300">-->
 <!--        <span class="fw-semibold d-inline-block"> Read More </span>-->
@@ -36,13 +44,13 @@
 <!--    <span class="hide_text_hany">Hide This</span>-->
 
 
-        <span  class="show_text_hany link d-flexx align-items-center gap-2 clr-primary-300">
-            <span class="fw-semibold d-inline-block"> Read More </span>
-        </span>
-
-         <span  class="hide_text_hany link d-flexx align-items-center gap-2 clr-primary-300">
-            <span class="fw-semibold d-inline-block"> Hide </span>
-        </span>
+<!--        <span  class="show_text_hany link d-flexx align-items-center gap-2 clr-primary-300">-->
+<!--            <span class="fw-semibold d-inline-block"> Read More </span>-->
+<!--        </span>-->
+<!---->
+<!--         <span  class="hide_text_hany link d-flexx align-items-center gap-2 clr-primary-300">-->
+<!--            <span class="fw-semibold d-inline-block"> Hide </span>-->
+<!--        </span>-->
 </div>
 
 

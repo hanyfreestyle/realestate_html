@@ -83,3 +83,58 @@
         </div>
     </div>
 </div>
+
+
+
+
+
+<div class="sticky-navbar fixed d-xl-none">
+    <div class="sticky-info">
+        <a href="#" class="active_footer sticky_a  ">
+            <span class="material-symbols-outlined mat-icon"> home </span>
+            Home
+        </a>
+    </div>
+    <div class="sticky-info">
+        <a href="#" class="sticky_a">
+
+            <span class="material-symbols-outlined mat-icon"> home_work  </span>
+            Project
+        </a>
+    </div>
+    <div class="sticky-info">
+        <a href="#" class="sticky_a">
+            <span class="material-symbols-outlined mat-icon"> home </span>
+            Wishlist
+        </a>
+    </div>
+    <div class="sticky-info">
+        <a href="#" class="sticky_a">
+            <span class="material-symbols-outlined mat-icon"> menu </span>
+            Menu
+        </a>
+    </div>
+
+</div>
+
+
+<!--<div class="FooterMenu">-->
+<!---->
+<!--    --><?php
+//    for ($i = 1; $i <= 4; $i++) {
+//        ?>
+<!--        <div class="iconDiv">-->
+<!---->
+<!--            <a href="#">-->
+<!--                <i class="fa fa-home"></i>-->
+<!--                <span>Home</span>-->
+<!--                <span class="iconv">-->
+<!--                    <span class="material-symbols-outlined mat-icon"> home </span>-->
+<!--                </span>-->
+<!--                Home-->
+<!--            </a>-->
+<!--        </div>-->
+<!--        --><?php
+//    }
+//    ?>
+<!--</div>-->

@@ -41,29 +41,31 @@
                                     <div class="d-noneX d-lg-block">
                                         <span class="fs-12 d-block"> Call Us Now </span>
                                         <a href="tel:406-555-0120" class="link d-block clr-neutral-700
-                                        :clr-primary-300"> (+202) 0100-9808-986</a>
+                                        :clr-primary-300">  0100-9808-986</a>
                                     </div>
                                 </div>
                             </li>
                             <li class="d-none d-lg-block">
                                 <div class="d-flex align-items-center gap-5">
                                     <div class="w-10 h-10 rounded-circle bg-secondary-300 d-grid place-content-center flex-shrink-0">
-                                        <span class="material-symbols-outlined mat-icon fs-24 clr-neutral-700 fw-300"> mark_as_unread </span>
+                                        <span class="material-symbols-outlined mat-icon fs-24 clr-neutral-700
+                                        fw-300"> <i class="fa-brands fa-whatsapp"></i> </span>
                                     </div>
                                     <div class="d-none d-lg-block">
-                                        <span class="fs-12 d-block"> Online Support </span>
-                                        <a href="mailto:mail@example.com" class="link d-block clr-neutral-700 :clr-primary-300"> mail@example.com </a>
+                                        <span class="fs-12 d-block"> WhatsApp </span>
+                                        <a href="#" class="link d-block clr-neutral-700 :clr-primary-300">
+                                            0100-9808-986</a>
                                     </div>
                                 </div>
                             </li>
                             <li class="d-none d-lg-block">
                                 <div class="d-flex d-inline-block   align-items-center gap-5">
                                     <div class="w-10 h-10 rounded-circle bg-tertiary-300 d-grid place-content-center flex-shrink-0">
-                                        <span class="material-symbols-outlined mat-icon fs-24 clr-neutral-700 fw-300"> pin_drop </span>
+                                        <span class="material-symbols-outlined mat-icon fs-24 clr-neutral-700 fw-300"> mark_as_unread </span>
                                     </div>
                                     <div class="d-none d-lg-block">
-                                        <span class="fs-12 d-block"> Online Location </span>
-                                        <span class="d-block"> 3605 Parker Rd. </span>
+                                        <span class="fs-12 d-block"> Contact Us </span>
+                                        <span class="d-block"> sales@realestate.eg.com </span>
                                     </div>
                                 </div>
                             </li>

@@ -15,14 +15,14 @@
                                     <div class="d-noneX d-lg-block">
                                         <span class="fs-12 d-block"> Call Us Now </span>
                                         <a href="tel:406-555-0120" class="link d-block clr-neutral-700
-                                        :clr-primary-300"> (+202) 0100-9808-986</a>
+                                        :clr-primary-300">  0100-9808-986</a>
                                     </div>
                                 </div>
                             </li>
                             <li class="d-xl-none">
                                 <div class="d-flex align-items-center gap-5">
                                     <div class="w-10 h-10 rounded-circle bg-secondary-300 d-grid place-content-center flex-shrink-0">
-                                        <span class="material-symbols-outlined mat-icon fs-24 clr-neutral-700 fw-300"> mark_as_unread </span>
+                                        <span class="material-symbols-outlined mat-icon fs-24 clr-neutral-700 fw-300"> <i class="fa-brands fa-whatsapp"></i> </span>
                                     </div>
                                     <div class="d-none d-lg-block">
                                         <span class="fs-12 d-block"> Online Support </span>
@@ -33,7 +33,7 @@
                             <li class="d-xl-none">
                                 <div class="d-flex d-inline-block   align-items-center gap-5">
                                     <div class="w-10 h-10 rounded-circle bg-tertiary-300 d-grid place-content-center flex-shrink-0">
-                                        <span class="material-symbols-outlined mat-icon fs-24 clr-neutral-700 fw-300"> pin_drop </span>
+                                        <span class="material-symbols-outlined mat-icon fs-24 clr-neutral-700 fw-300"> mark_as_unread </span>
                                     </div>
                                     <div class="d-none d-lg-block">
                                         <span class="fs-12 d-block"> Online Location </span>
@@ -58,9 +58,9 @@
                         </ul>
                     </div>
                     <ul class="list list-lg-row menu-nav order-lg-1">
-                        <li class="menu-list current-page"><a href="#" class="link menu-link "> Home </a> </li>
-                        <li class="menu-list"><a href="#" class="link menu-link "> Egypt's Compounds </a> </li>
-                        <li class="menu-list"><a href="#" class="link menu-link "> Blog </a> </li>
+                        <li class="menu-list current-page"><a href="index.php" class="link menu-link "> Home </a> </li>
+                        <li class="menu-list"><a href="Project.php" class="link menu-link "> Egypt's Compounds </a> </li>
+                        <li class="menu-list"><a href="List.php" class="link menu-link "> Blog </a> </li>
                         <li class="menu-list"><a href="#" class="link menu-link "> Properties for sale </a> </li>
                         <li class="menu-list"><a href="#" class="link menu-link "> Developers </a> </li>
                         <li class="menu-list"><a href="#" class="link menu-link "> Contact Us </a> </li>
