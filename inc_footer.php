@@ -88,34 +88,7 @@
 
 
 
-<div class="sticky-navbar fixed d-xl-none">
-    <div class="sticky-info">
-        <a href="#" class="active_footer sticky_a  ">
-            <span class="material-symbols-outlined mat-icon"> home </span>
-            Home
-        </a>
-    </div>
-    <div class="sticky-info">
-        <a href="#" class="sticky_a">
 
-            <span class="material-symbols-outlined mat-icon"> home_work  </span>
-            Project
-        </a>
-    </div>
-    <div class="sticky-info">
-        <a href="#" class="sticky_a">
-            <span class="material-symbols-outlined mat-icon"> home </span>
-            Wishlist
-        </a>
-    </div>
-    <div class="sticky-info">
-        <a href="#" class="sticky_a">
-            <span class="material-symbols-outlined mat-icon"> menu </span>
-            Menu
-        </a>
-    </div>
-
-</div>
 
 
 <!--<div class="FooterMenu">-->

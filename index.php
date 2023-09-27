@@ -1,6 +1,8 @@
 <?php
 require_once '_var.php';
 require_once 'inc_meta.php';
+
+$PageMenu = 'index';
 ?>
 
 <body>
@@ -14,6 +16,10 @@ require_once 'page_home.php';
 
 
 require_once 'inc_footer.php';
+FooterMenu("index");
+?>
+
+<?php
 require_once 'inc_js.php';
 ?>
 </body>

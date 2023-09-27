@@ -56,6 +56,7 @@ require_once 'Project_Slider.php';
 
 
 require_once 'inc_footer.php';
+FooterMenu("project");
 require_once 'inc_js.php';
 ?>
 </body>
