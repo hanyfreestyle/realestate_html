@@ -60,10 +60,10 @@
                     <ul class="list list-lg-row menu-nav order-lg-1">
                         <li class="menu-list current-page"><a href="index.php" class="link menu-link "> Home </a> </li>
                         <li class="menu-list"><a href="Project.php" class="link menu-link "> Egypt's Compounds </a> </li>
-                        <li class="menu-list"><a href="List.php" class="link menu-link "> Blog </a> </li>
-                        <li class="menu-list"><a href="#" class="link menu-link "> Properties for sale </a> </li>
-                        <li class="menu-list"><a href="#" class="link menu-link "> Developers </a> </li>
-                        <li class="menu-list"><a href="#" class="link menu-link "> Contact Us </a> </li>
+                        <li class="menu-list"><a href="Blog.php" class="link menu-link "> Blog </a> </li>
+                        <li class="menu-list"><a href="List.php" class="link menu-link "> Properties for sale </a> </li>
+                        <li class="menu-list"><a href="Developers.php" class="link menu-link "> Developers </a> </li>
+                        <li class="menu-list"><a href="Compounds.php" class="link menu-link "> Contact Us </a> </li>
                     </ul>
                 </nav>
             </div>

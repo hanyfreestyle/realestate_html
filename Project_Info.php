@@ -21,7 +21,7 @@
             </li>
         </ul>
     </div>
-    <h2 class="mt-4 mb-8"> Bloomfields Mostakbal City Compound </h2>
+    <h2 class="mt-4 mb-8"> Egypt's Compounds - 1447 compounds and 31799 properties for sale.  </h2>
         <div class="hr-dashed my-8"></div>
     <ul class="list list-row flex-wrap align-items-center list-divider-dot gap-4 gap-md-0">
         <li>
