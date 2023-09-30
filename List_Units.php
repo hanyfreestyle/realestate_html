@@ -57,10 +57,7 @@ for ($i = 0; $i <= 20 ; $i++) {
                             <span class="material-symbols-outlined mat-icon clr-neutral-600 d-inline-block mb-1"> home_work </span>
                             <span class="d-block fs-14"> 3 Room </span>
                         </li>
-                        <li>
-                            <span class="material-symbols-outlined mat-icon clr-neutral-600 d-inline-block mb-1"> bed </span>
-                            <span class="d-block fs-14"> 5 Bed </span>
-                        </li>
+
                         <li>
                             <span class="material-symbols-outlined mat-icon clr-neutral-600 d-inline-block mb-1"> bathtub </span>
                             <span class="d-block fs-14"> 1 Bath </span>

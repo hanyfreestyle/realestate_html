@@ -58,12 +58,7 @@
                 <p class="mb-0"> 7 Room </p>
             </div>
         </li>
-        <li>
-            <div class="d-flex align-items-center gap-2">
-                <span class="material-symbols-outlined mat-icon"> bed </span>
-                <p class="mb-0"> 7 Bed </p>
-            </div>
-        </li>
+
         <li>
             <div class="d-flex align-items-center gap-2">
                 <span class="material-symbols-outlined mat-icon"> bathtub </span>
@@ -76,12 +71,7 @@
                 <p class="mb-0"> 702 sft </p>
             </div>
         </li>
-        <li>
-            <div class="d-flex align-items-center gap-2">
-                <span class="material-symbols-outlined mat-icon"> calendar_month </span>
-                <p class="mb-0"> 2023 </p>
-            </div>
-        </li>
+
     </ul>
 </div>
 

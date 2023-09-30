@@ -1,5 +1,5 @@
 <div class="d-flex align-items-center justify-content-between flex-wrap gap-3 mb-5">
-    <h4 class="mb-0"> Properties for sale (55) </h4>
+    <h2 class="mb-0 def_h2_out"> Properties for sale (55) </h2>
 
 </div>
 <!--<div class="hr-dashed my-8"></div>-->
@@ -50,17 +50,15 @@ for ($i = 0; $i <= 20 ; $i++) {
                         <span class="d-inline-block">New Cairo  </span>
                     </div>
                     <a href="#" class="link d-block clr-neutral-700 :clr-primary-300 fs-20 fw-medium mb-7">
-                        About 150 M Apartment For Sale With Less Than Market Price In Bloomfields
+                       <h3 class="def_h3"> About 150 M Apartment For Sale With Less Than Market Price In
+                           Bloomfields</h3>
                     </a>
                     <ul class="list list-row flex-wrap dotted-divider">
                         <li>
                             <span class="material-symbols-outlined mat-icon clr-neutral-600 d-inline-block mb-1"> home_work </span>
                             <span class="d-block fs-14"> 3 Room </span>
                         </li>
-                        <li>
-                            <span class="material-symbols-outlined mat-icon clr-neutral-600 d-inline-block mb-1"> bed </span>
-                            <span class="d-block fs-14"> 5 Bed </span>
-                        </li>
+
                         <li>
                             <span class="material-symbols-outlined mat-icon clr-neutral-600 d-inline-block mb-1"> bathtub </span>
                             <span class="d-block fs-14"> 1 Bath </span>

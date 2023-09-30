@@ -41,8 +41,15 @@ require_once 'inc_header_menu.php';
 
                             </div>
                             <div class="mt-15 text-center">
-                                <h4 class="crop_line_1"> Developers Name will be here </h4>
-                                <p class="mb-0 fs-18"><?php echo rand(5,30)?>  Project</p>
+                                <h4 class="crop_line_1"> <?= $i?> Developers Name will be here </h4>
+
+                                <p class="DevelopersListIcon">
+                                    <i class="fas fa-hotel"></i> <?php echo rand
+                                    (5,30)?>  Project</p>
+
+                                <p class="DevelopersListIcon">
+                                    <i class="fas fa-bed"></i> <?php echo rand
+                                    (5,30)?>  Units</p>
                             </div>
                         </div>
                     </div>

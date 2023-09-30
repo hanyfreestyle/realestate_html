@@ -4,7 +4,7 @@
             <div class="col-12 mb-3 pb-3">
                 <div class="row g-4 align-items-center">
                     <div class="col-md-12">
-                        <h2 class="mb-0"> Other Projects  </h2>
+                        <h2 class="mb-0 def_h2_out"> Other Projects  </h2>
                     </div>
 
                 </div>

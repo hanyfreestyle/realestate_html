@@ -634,3 +634,66 @@ div.scrollmenu a:hover {
     /*transform: translate(-50%, 50%);*/
     /*z-index: 1;*/
 }
+
+
+.DevelopersListIcon{
+
+}
+
+.blog_img{
+    width: 100% !important;
+    background: #2c0b0e;
+}
+
+.blog_img img{
+    width: 100% !important;
+
+}
+
+
+.def_h1{
+    font-size: 30px;
+    line-height: 40px;
+}
+.def_h2_out{
+    font-size: 25px;
+    line-height: 30px;
+    padding-left: 10px;
+}
+.def_h2_inside{
+    font-size: 25px;
+    line-height: 30px;
+}
+.def_h3{
+    font-size: 20px;
+    line-height: 30px;
+}
+
+
+
+
+@media (max-width: 768px) {
+    .def_h1 {
+        font-size: 25px;
+        line-height: 35px;
+    }
+
+
+    .def_h2_out{
+        font-size: 20px;
+        line-height: 25px;
+
+    }
+    .def_h2_inside{
+        font-size: 20px;
+        line-height: 25px;
+    }
+
+
+    .def_h3{
+        font-size: 15px;
+        line-height: 25px;
+    }
+
+
+}

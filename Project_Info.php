@@ -21,7 +21,9 @@
             </li>
         </ul>
     </div>
-    <h2 class="mt-4 mb-8"> Egypt's Compounds - 1447 compounds and 31799 properties for sale.  </h2>
+    <h1 class="mt-4 mb-8 def_h1">
+        Take advantage of the opportunity now and buy De Joya villas in one of the most prestigious neighborhoods of New Administrative Capital
+    </h1>
         <div class="hr-dashed my-8"></div>
     <ul class="list list-row flex-wrap align-items-center list-divider-dot gap-4 gap-md-0">
         <li>

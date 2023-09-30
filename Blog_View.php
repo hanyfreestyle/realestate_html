@@ -33,15 +33,9 @@ require_once 'inc_header_menu.php';
                                 </div>
                             </li>
                             <li>
-                                <p class="mb-0"> Status : <span class="clr-primary-300">Completed</span>
-                                </p>
+                                <p class="mb-0"><a href="#"><span class="clr-primary-300">Project Name</span></a></p>
                             </li>
-                            <li>
-                                <div class="d-flex align-items-center gap-1">
-                                    <span class="material-symbols-outlined mat-icon"> calendar_month </span>
-                                    <p class="mb-0"> 2023 </p>
-                                </div>
-                            </li>
+
                             <li>
                                 <p class="mb-0">
                                     <span class="clr-neutral-500">Developed by :</span>Tatweer Misr
@@ -53,9 +47,10 @@ require_once 'inc_header_menu.php';
                 </div>
 
                 <?php
-                require_once 'Project_Video.php';
+
                 require_once 'Project_Units.php';
                 require_once 'Blog_Des.php';
+                require_once 'Project_Video.php';
                 require_once 'Project_Amenities.php';
 
 
@@ -69,6 +64,8 @@ require_once 'inc_header_menu.php';
     </div>
 </div>
 <?php
+
+require_once 'Blog_MoreBlog.php';
 
 require_once 'Project_Project_Blog.php';
 

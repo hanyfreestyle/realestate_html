@@ -1,5 +1,5 @@
 <div class="p-6 bg-neutral-0 rounded-4 mb-10">
-    <h4 class="mb-5"> Amenities </h4>
+    <h2 class="mb-5 def_h2_inside"> Amenities </h2>
     <div class="mb-10">
         <div class="row g-4">
 
